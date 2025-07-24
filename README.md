@@ -1,7 +1,11 @@
-👋 Hi, I’m @szamski  
-👀 I’m interested in building tools that solve real problems, especially in marketing tech and automation.  
-🌱 I’m currently learning more about API integrations, monday.com apps, and backend architecture.  
-💞️ I’m looking to collaborate on smart, useful projects – especially in the productivity, automation, and data space.  
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/szamowski) or email me at maciek.szamowski[at]gmail.com  
-😄 Pronouns: he/him  
-⚡ Fun fact: I’ve launched campaigns for everything from console games to CSR, and I once ran a project with 100,000 localized SKUs 😅  
+👋 Hi, I'm Maciej
+
+I'm a Business & Process Automation Architect. I spent 15 years in business and marketing strategy, understanding why things don't work. Now, I build the tools to fix them.
+
+I translate complex business challenges into clean, effective solutions using Python, TypeScript, Next.js, and AI.
+
+ - 🔭 Currently: Building data pipelines, AI-powered analytics tools, and modern web applications.
+ - 🧠 Core Skills: Python n8n OpenAI Pandas Streamlit Next.js TypeScript React
+ - 🌱 My Goal: To bridge the gap between business strategy and technical execution.
+    
+  📫 Let's connect: LinkedIn

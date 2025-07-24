@@ -1,4 +1,4 @@
-👋 Hi, I'm Maciej
+👋 Hi, I'm Maciek
 
 I'm a Business & Process Automation Architect. I spent 15 years in business and marketing strategy, understanding why things don't work. Now, I build the tools to fix them.
 

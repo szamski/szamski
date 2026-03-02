@@ -10,9 +10,17 @@ I'm a Business & Process Automation Architect. I spent 15 years in business and 
 
 ### 🔧 Tech & Tools
 - Working with TikTok Ads API, Meta APIs, and various marketing platforms
-- Development environment: VS Code, PowerShell, Bash, Neovim, Python, Next.js
+- Development environment: VS Code, PowerShell, Bash, Zsh, Neovim, Python, Next.js, TypeScript
 - Currently exploring: 3D printing, Linux system administration (Hyprland/Omarchy)
 - Interests: Marketing automation, data analysis, system optimization
 
 ### 📫 Background
 15+ years in marketing with both local & global clients, now leading business with focus on creative effectiveness and scalable growth.
+
+### 🧠 Learning? 
+
+Still learning my stuff, preparing for pivot in my life and **turning fullstack-dev full time**. 
+
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/06d72f38-67b1-4d5c-b40c-87d1a25a2cd5/thumbnail" >
+</p>

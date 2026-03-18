@@ -15,5 +15,3 @@
 ### Background
 Led digital and performance marketing for major brands across TikTok, Meta, and Google Ads. Now turning that into something you can run in a terminal.
 
-Warsaw, PL.
-

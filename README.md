@@ -1,26 +1,24 @@
-## Hi there 👋
+## Hey 👋
 
-I'm a Business & Process Automation Architect. I spent 15 years in business and marketing strategy, understanding why things don't work. Now, I build the tools to fix them.
-
-### 🚀 What I do
-- Performance marketing strategy and execution across TikTok, Meta, and Google Ads
-- Campaign analysis and optimization for major brands across multiple markets
-- API integrations and marketing automation
-- Team coordination and client relationship management
-
-### 🔧 Tech & Tools
-- Working with TikTok Ads API, Meta APIs, and various marketing platforms
-- Development environment: VS Code, PowerShell, Bash, Zsh, Neovim, Python, Next.js, TypeScript
-- Currently exploring: 3D printing, Linux system administration (Hyprland/Omarchy)
-- Interests: Marketing automation, data analysis, system optimization
-
-### 📫 Background
-15+ years in marketing with both local & global clients, now leading business with focus on creative effectiveness and scalable growth.
-
-### 🧠 Learning? 
-
-Still learning my stuff, preparing for pivot in my life and **turning fullstack-dev full time**. 
+15 years in tech marketing, now building fullstack.
 
 <p align="left">
   <img src="https://api.boot.dev/v1/users/public/06d72f38-67b1-4d5c-b40c-87d1a25a2cd5/thumbnail" >
 </p>
+
+
+### What I'm doing
+- Shipping real projects in Python, Next.js, TypeScript
+- Currently on the backend track, preparing for first engineering interviews
+- API integrations, marketing automation, performance analytics
+
+### Stack & tools
+- Python, Next.js, TypeScript, PostgreSQL
+- VS Code, Neovim, Zsh, Bash
+- TikTok Ads API, Meta APIs
+
+### Background
+Led digital and performance marketing for major brands across TikTok, Meta, and Google Ads. Now turning that into something you can run in a terminal.
+
+Warsaw, PL.
+

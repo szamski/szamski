@@ -2,11 +2,6 @@
 
 15 years in tech marketing, now building fullstack.
 
-<p align="left">
-  <img src="https://api.boot.dev/v1/users/public/06d72f38-67b1-4d5c-b40c-87d1a25a2cd5/thumbnail" >
-</p>
-
-
 ### What I'm doing
 - Shipping real projects in Python, Next.js, TypeScript
 - Currently on the backend track, preparing for first engineering interviews
